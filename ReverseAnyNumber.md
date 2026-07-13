@@ -74,7 +74,7 @@ public static int logicMethod(int number) {
         
         [loop 3]
         digit = 4
-        rev = (65 * 10) + 4 = 650 + 4 = 645
+        rev = (65 * 10) + 4 = 650 + 4 = 654
         
         AND HENCE THE NUMBER IS REVERSED.
         
