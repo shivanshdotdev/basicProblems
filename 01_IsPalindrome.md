@@ -1,4 +1,4 @@
-### Is Palindrome?
+# Is Palindrome?
 Palindrome is the number is same when read from right and left, such as 121 or 1331 or 12321, etc.
 ```java
 import java.util.Scanner;

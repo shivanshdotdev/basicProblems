@@ -1,5 +1,5 @@
 # LCM
-[HCF Logic is explained here](https://github.com/shivanshdotdev/basicProblems/blob/main/03_HCF.md)
+[HCF Logic is explained here](https://github.com/shivanshdotdev/basicProblems/blob/main/02_HCF.md)
 
 ```java
 public static int logicMethod(int num1, int num2){
